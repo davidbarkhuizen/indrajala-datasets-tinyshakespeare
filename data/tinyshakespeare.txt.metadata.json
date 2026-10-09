@@ -1,0 +1,12 @@
+{
+  "filename": "tinyshakespeare.txt",
+  "format": "text",
+  "encoding": "ascii",
+  "size_bytes": 1115394,
+  "sha256": "86c4e6aa9db7c042ec79f339dcb96d42b0075e16b8fc2e86bf0ca57e2dc565ed",
+  "character_count": 1115394,
+  "line_count": 40000,
+  "vocabulary": "\n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  "vocabulary_size": 65,
+  "notes": "Unchanged from the source. No train/test split here: consumers split it (indrajala-ml: the first 90% for training, the last 10% held out)."
+}

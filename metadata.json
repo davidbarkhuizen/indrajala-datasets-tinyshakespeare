@@ -1,0 +1,13 @@
+{
+  "name": "tinyshakespeare",
+  "description": "Tiny Shakespeare: 1,115,394 characters of Shakespeare's plays, the character-level corpus of Karpathy's char-rnn.",
+  "source": {
+    "name": "Andrej Karpathy, char-rnn (data/tinyshakespeare/input.txt)",
+    "url": "https://github.com/karpathy/char-rnn/blob/master/data/tinyshakespeare/input.txt",
+    "license": "The text is from Shakespeare's plays, which are in the public domain. The selection comes from the char-rnn repository, licensed MIT (as stated in its Readme.md; the repository has no LICENSE file)."
+  },
+  "version": "2026-10-09",
+  "maintainer": "davidbarkhuizen",
+  "format": "plain text, ASCII, newline-separated",
+  "files": ["data/tinyshakespeare.txt"]
+}
